@@ -1,3 +1,3 @@
-About this repository
+#About this repository
 
 Agile software development course assignment
